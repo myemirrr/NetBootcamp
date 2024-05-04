@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetBootcamp.API", "NetBootcamp.API\NetBootcamp.API.csproj", "{7037E716-D76E-42FE-BDB3-AFF3AF0F71BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetBootcamp.Web", "NetBootcamp.Web\NetBootcamp.Web.csproj", "{DB05389A-7451-4145-B99E-2AB67E16CBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7037E716-D76E-42FE-BDB3-AFF3AF0F71BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7037E716-D76E-42FE-BDB3-AFF3AF0F71BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7037E716-D76E-42FE-BDB3-AFF3AF0F71BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7037E716-D76E-42FE-BDB3-AFF3AF0F71BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB05389A-7451-4145-B99E-2AB67E16CBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB05389A-7451-4145-B99E-2AB67E16CBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB05389A-7451-4145-B99E-2AB67E16CBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB05389A-7451-4145-B99E-2AB67E16CBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A4C0E1-A891-42A1-A057-1859B99A0A62}
+	EndGlobalSection
+EndGlobal
